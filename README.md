@@ -1,11 +1,18 @@
-# Hi, I'm Mandar Gokul Kale 👋
+# Hi, I'm Mandar Gokul Kale! 👋
 
-🎓 Master's student in Information Technology  
-🔬 Interested in Machine Learning, Software Engineering, and Artificial Intelligence  
-💼 2.5 years of experience as a **Software Engineer in Trading Domain**  
+Welcome to my GitHub Profile, I'm a passionate **Software Developer** and **AI/ML Enthusiast** with 2.5+ years of professional experience in the **financial trading domain**, building robust, high-performance systems using **Java**, **Spring Boot**, and **C**.
 
+🎯 I specialize in:
+- Building scalable microservices and backend systems using **Java Spring Boot Microservices**
+- Developing low-latency trading applications with **C**, **IPCS**, **socket programming**, and **message queues**
+- Exploring intelligent systems with **Machine Learning**, **Cloud Computing**, and **Autonomous Integrated Systems** using Hardware like **Red Pitaya & FIUS Sensor**
+
+💡 Currently pursuing my **Master’s degree**, where I’m focused on integrating **Machine Learning** with real-time applications like **Infant detection in Car using RedPitaya and FIUS Sensor**.
+
+🚀 I enjoy working at the intersection of **software engineering**, **AI**, and **ML**, always eager to learn and contribute to innovative projects.
 
 ---
+
 
 ## 👨‍💻 Professional Experience
 
@@ -34,7 +41,7 @@
 ## 🗂️ Connect & Collaborate
 
 - 📫 Email: mandarkale5@gmail.com
-- 🧑‍💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mandarkale5/)
+- 🧑‍💼 LinkedIn: [mandarkale5](https://www.linkedin.com/in/mandarkale5/)
 
 ---
 
